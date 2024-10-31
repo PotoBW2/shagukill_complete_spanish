@@ -1,0 +1,6 @@
+## Interface: 11200 
+## Title: |cff33ffccShagu|cffffffffKill(1.1)
+## Author: Eric (Shagu) Mauser, 2016. PotoBW, 2021
+## Notes: Muestra las muertes restantes o los eventos de entrega de Ep al siguiente nivel.
+## Version: 1.1
+ShaguKill.lua
