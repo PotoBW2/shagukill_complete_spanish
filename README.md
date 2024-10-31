@@ -19,7 +19,7 @@ PayPal: joseamosher@gmail.com
 ![screenshot](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguKill/screenshot.jpg)
 
 ## Instalación
-1. Descargar **[Última versión](https://github.com/shagu/ShaguKill/archive/master.zip)**
+1. Descargar **[Última versión](https://github.com/PotoBW2/shagukill_complete_spanish/releases/download/Shagukill_Complete_Spanish_1.0/ShaguKill.rar)**
 2. Descomprima el archivo RAR
 3. Copia "ShaguKill" en Directorio-WoW\Interface\AddOns
 4. Reiniciar Wow
