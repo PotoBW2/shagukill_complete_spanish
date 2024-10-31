@@ -1,13 +1,25 @@
-# ShaguKill
+# ShaguKill_Complete_Spanish
 
-Displays the count of remaining kills or other Exp-giving events that are required to gain the next levelup.
+Muestra el recuento de muertes restantes u otros eventos que otorgan experiencia que se requieren para alcanzar el siguiente nivel.
 
+# Traducción por PotoBW
+
+Este addon fue desarrollado por Shagu. Nosotros solo traducimos para que este completamente en español. Está basado en la versión ShaguKill (1.0). En caso de haber errores de traducción o errores de textos que no se entienden contactenme para solucionarlos.
+
+Telefono, WhatSapp, Telegram: +53 55920042
+
+Telegram: @potobw
+
+Correo: dmosquerabw@gmail.com
+
+# Donaciones
+
+PayPal: joseamosher@gmail.com
 
 ![screenshot](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguKill/screenshot.jpg)
 
-## Installation
-1. Download **[Latest Version](https://github.com/shagu/ShaguKill/archive/master.zip)**
-2. Unpack the Zip file
-3. Rename the folder "ShaguKill-master" to "ShaguKill"
-4. Copy "ShaguKill" into Wow-Directory\Interface\AddOns
-5. Restart Wow
+## Instalación
+1. Descargar **[Última versión](https://github.com/shagu/ShaguKill/archive/master.zip)**
+2. Descomprima el archivo RAR
+3. Copia "ShaguKill" en Directorio-WoW\Interface\AddOns
+4. Reiniciar Wow
