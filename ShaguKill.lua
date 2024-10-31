@@ -16,6 +16,7 @@ ShaguKill:SetScript("OnEvent", function()
       if ShaguKill.difXP > 0 then
         ShaguKill.RemainingKills = ceil((ShaguKill.maxXP - ShaguKill.curXP)/ShaguKill.difXP)
         UIErrorsFrame:AddMessage("Siguiente nivel: |cffffffaa" .. ShaguKill.RemainingKills .. "|r muertes.")
+		DEFAULT_CHAT_FRAME:AddMessage("Siguiente nivel: |cffffffaa" .. ShaguKill.RemainingKills .. "|r muertes.")
       end   
     end
     ShaguKill.oldXP = ShaguKill.curXP
@@ -27,6 +28,7 @@ ShaguKill:SetScript("OnEvent", function()
       if ShaguKill.petDifXP > 0 then
         ShaguKill.petRemainingKills = ceil((ShaguKill.petMaxXP - ShaguKill.petCurXP)/ShaguKill.petDifXP)
         UIErrorsFrame:AddMessage("Mascota: |cffffffaa" .. ShaguKill.petRemainingKills .. "|r muertes.")
+		DEFAULT_CHAT_FRAME:AddMessage("Mascota: |cffffffaa" .. ShaguKill.petRemainingKills .. "|r muertes.")
       end   
     end
     ShaguKill.petOldXP = ShaguKill.petCurXP
